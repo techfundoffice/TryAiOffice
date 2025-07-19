@@ -1,0 +1,1 @@
+import{b as o,P as r}from"./app-b5400095.js";const s=({children:a,className:e})=>o("div",{className:`rounded-xl bg-white shadow-card ${e}`,children:a});s.propType={children:r.node,className:r.string};const n=s;export{n as C};
